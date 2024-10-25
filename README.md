@@ -101,7 +101,8 @@
 [![An image of @akmaurya7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akmaurya7)](https://holopin.io/@akmaurya7)
 
 <br/>
-### Github Stats 🧊
+
+## Github Stats 🧊
 
 <div align="center">
 
