@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adarsh Kumar Maurya</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h2 align="center"> A passionate Android developer </h2>
 
 <p align="center"> 
   <a href="https://www.linkedin.com/in/akmaurya7"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
@@ -9,82 +9,30 @@
 
 
 
+<h1><img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="53" height="53"/> Tools & Technology</h1>
 <table>
-  <h1><img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="53" height="53"/>Tools & Technology</h1>
-    <tr>
-        <td>
-          Programming Languages
-        </td>
-        <td align="left">
-            <a class="image-link" href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="55" height="55" style="padding: 5px;"/>
-            </a>
-            <a class="image-link" href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="55" height="55" style="padding: 5px;"/>
-            </a>
-            <a class="image-link" href="https://www.java.com" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="55" height="55" style="padding: 5px;"/>
-            </a>
-            <a class="image-link" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55" style="padding: 5px;"/>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td align="left" style="padding-right: 20px;">Frameworks</td>
-        <td align="left">
-            <a class="image-link" href="https://developer.android.com" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="55" height="55" style="padding: 5px;"/>
-            </a>
-            <a class="image-link" href="https://expressjs.com" target="_blank" rel="noreferrer">
-                <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="55" height="55" style="padding: 5px;"/>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td align="left" style="padding-right: 20px;">Databases</td>
-        <td align="left">
-            <a class="image-link" href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="55" height="55" style="padding: 5px;"/>
-            </a>
-            <a class="image-link" href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="55" height="55" style="padding: 5px;"/>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td align="left" style="padding-right: 20px;">Cloud Services</td>
-        <td align="left">
-            <a class="image-link" href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-                <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="55" height="55" style="padding: 5px;"/>
-            </a>
-            <a class="image-link" href="https://cloud.google.com" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="55" height="55" style="padding: 5px;"/>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td align="left" style="padding-right: 20px;">Design Tools</td>
-        <td align="left">
-            <a class="image-link" href="https://www.figma.com/" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="55" height="55" style="padding: 5px;"/>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td align="left" style="padding: 20px;">Others</td>
-        <td align="left">
-            <a class="image-link" href="https://git-scm.com/" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" height="55" style="padding: 5px;"/>
-            </a>
-            <a class="image-link" href="https://postman.com" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="55" height="55" style="padding: 5px;"/>
-            </a>
-            <a class="image-link" href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="55" height="55" style="padding: 5px;"/>
-            </a>
-        </td>
-    </tr>
+	<tr>
+	<td><strong>Programming Languages</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=kotlin,java,python,cpp,c&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Database Technologies</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=firebase,aws,gcp,mysql,mongodb&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Frontend Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js" ></td>
+</tr>
+<tr>
+	<td><strong>Backend Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs&theme=dark"></td>
+</tr>
+
+<tr>
+	<td><strong>Developer Tools</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=androidstudio,gradle,git,github,postman&theme=dark"></td>
+</tr>
+
 </table>
 
 <br/>
@@ -93,7 +41,7 @@
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" padding="10px"/>
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
