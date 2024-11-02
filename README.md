@@ -25,7 +25,7 @@
 </tr>
 <tr>
 	<td><strong>Backend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=ktor,nodejs&theme=dark"></td>
 </tr>
 
 <tr>
