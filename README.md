@@ -13,24 +13,24 @@
 <table>
 	<tr>
 	<td><strong>Programming Languages</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=kotlin,java,python,cpp,c&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=kotlin,java,python,c&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Database Technologies</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=firebase,aws,gcp,mysql,mongodb&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=firebase,aws,mysql,mongodb&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Frontend Development</strong></td>
 	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js" ></td>
 </tr>
-<tr>
+<!-- <tr>
 	<td><strong>Backend Development</strong></td>
 	<td><img height=40 src = "https://skillicons.dev/icons?i=ktor,nodejs&theme=dark"></td>
-</tr>
+</tr> -->
 
 <tr>
 	<td><strong>Developer Tools</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=androidstudio,gradle,git,github,postman&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=androidstudio,git,github,postman&theme=dark"></td>
 </tr>
 
 </table>
