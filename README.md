@@ -58,15 +58,6 @@
 
 <div align="center">
 
-<p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=akmaurya7"><img src="https://github-profile-trophy.vercel.app/?username=akmaurya7&theme=radical" alt="akmaurya7"/></a>
-</p>
-
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akmaurya7&theme=radical">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akmaurya7&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akmaurya7&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akmaurya7&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akmaurya7&theme=radical&utcOffset=8">
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=akmaurya7&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
 
 
@@ -80,6 +71,3 @@
    </a>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akmaurya7&theme=synthwave-84&true&hide_border=true" />
-</div>
